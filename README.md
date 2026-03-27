@@ -1,26 +1,24 @@
-<h1 align="center">👋 Olá, eu sou o Mikael!</h1>
+<h1 align="center">Mikael Sousa</h1>
 
 <p align="center">
-  🎓 Estudante de Desenvolvimento de Sistemas - SENAC <br>
-  💻 Focado em me tornar Desenvolvedor Full Stack
+  <strong>Desenvolvedor em formação | SENAC</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+formação;Java+%7C+JavaScript+%7C+C%23;Sempre+evoluindo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+formação;Java+%7C+JavaScript+%7C+C%23;Focado+em+resultados+e+evolução;Construindo+meu+futuro+na+tecnologia" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-💡 Apaixonado por tecnologia e programação  
-📚 Estudante no SENAC (Desenvolvimento de Sistemas)  
-🎯 Em busca da primeira oportunidade na área  
-📈 Evolução constante e prática diária  
+Sou estudante de **Desenvolvimento de Sistemas pelo SENAC**, com foco em construção de aplicações web e evolução contínua como desenvolvedor.
+
+Tenho interesse em criar soluções eficientes, com código organizado, boa performance e experiência de usuário de qualidade.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Stack Tecnológica
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,html,css,cs" />
@@ -28,16 +26,16 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mikaelvs785&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelvs785&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mikaelvs785&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelvs785&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Streak de contribuições
+## 📈 Consistência
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mikaelvs785&theme=tokyonight&hide_border=true" />
@@ -45,7 +43,7 @@
 
 ---
 
-## 🐍 Contribuições animadas
+## 🐍 Contribuições
 
 <p align="center">
   <img src="https://github.com/mikaelvs785/mikaelvs785/blob/output/github-contribution-grid-snake.svg" />
@@ -53,52 +51,34 @@
 
 ---
 
-## 👀 Contador de visitas
+## 🎯 Objetivo Profissional
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikaelvs785&color=blue" />
-</p>
+Atuar como desenvolvedor, aplicando conhecimentos em:
 
----
-
-## 🏆 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudante-SENAC-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/JavaScript-Developer-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/C%23-Developer-purple?style=for-the-badge&logo=csharp" />
-</p>
+- Desenvolvimento Web  
+- Programação Orientada a Objetos  
+- Boas práticas e organização de código  
 
 ---
 
-## 🎯 Objetivos
-
-✔ Evoluir como desenvolvedor  
-✔ Criar projetos profissionais  
-✔ Conseguir minha primeira vaga  
-✔ Aprender novas tecnologias  
-
----
-
-## 📫 Contato
+## 📬 Contato
 
 <p align="center">
   <a href="https://github.com/mikaelvs785">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## ⚡ Frase
+## 🧠 Mentalidade
 
 <p align="center">
-  "Disciplina e consistência constroem o sucesso 🚀"
+  <em>"Consistência vence talento quando o talento não é consistente."</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=120&section=footer"/>
 </p>
